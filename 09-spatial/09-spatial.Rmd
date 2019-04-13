@@ -22,6 +22,13 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE, dpi=300)
 
 *Note: This lecture will focus only on **vector-based** spatial analysis. We will not cover **raster-based** spatial analysis, although this is an equally important subject. I'll provide some links to further resources at the bottom of this document for those of you who want to explore further on your own.*
 
+
+## Check
+
+#### Check
+
+---
+
 ## Requirements
 
 ### External libraries (requirements vary by OS)
