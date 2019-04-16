@@ -26,7 +26,7 @@ opts_chunk$set(
 
 # Table of contents
 
-1. [Prologue](#prologue)
+1. [Prologues](#prologue)
 
 2. [Git and GitHub](#git)
 
@@ -56,6 +56,8 @@ name: prologue
 ---
 
 # Test
+
+$\sum_{\rho}^{\gamma} = 100\frac{\alpha}{\beta}$
 
 ---
 
